@@ -51,7 +51,7 @@ function Home() {
             setLoading(false)
         }
 
-        setSearchQuery("----");
+        setSearchQuery(searchQuery);
 
     }
 
